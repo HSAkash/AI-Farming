@@ -3,6 +3,13 @@
 Welcome to [AI-Farming](https://aifarming.tech/), a collaborative effort by [Hemel Akash](https://github.com/HSAkash/) and [Nayem Mehedi](https://github.com/Nayem73/). Our mission is to bridge the gap between agriculture and technology using artificial intelligence.
 Visit our website [AI-Farming](https://aifarming.tech/)
 
+
+
+
+https://github.com/HSAkash/AI-Farming/assets/44114317/04e78b13-8f43-4362-97a7-de0c59563cbc
+
+
+
 ## AI-Farming AI Models and Accuracy
 
 - Our AI-Farming platform currently supports disease prediction for 5 plant species, encompassing 21 distinct diseases.
